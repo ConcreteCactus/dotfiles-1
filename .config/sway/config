@@ -1,3 +1,4 @@
+exec swaynag "Válaszolj Áronnak"
 # Variables
 set $mod Mod4
 set $term kitty
